@@ -10,7 +10,8 @@ mark gambardella, use with credit or whatver */
     font-size: 100px;
     color: white;
     position: fixed;
-    margin-top: 350px;
+    margin-top: 250px;
+    margin-left: 100px;
     text-align: right;
 }
 
@@ -26,9 +27,16 @@ mark gambardella, use with credit or whatver */
     text-decoration: none;
 }
 
+.sep {
+    font-size: 50px;
+    color: #bfbfbf;
+    text-align: right;
+    text-decoration: none;
+}
+
 .navholder {
-    margin-top: 475px;
-    margin-left: 820px;
+    margin-top: 400px;
+    margin-left: 250px;
 }
 
 .notfoundlink {
